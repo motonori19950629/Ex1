@@ -66,12 +66,12 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
                     <connections>
-                        <outlet property="labelSum" destination="98Q-Dr-xn0" id="jrb-mO-Yqg"/>
-                        <outlet property="num1" destination="Tfj-zL-hvv" id="o6f-8j-zci"/>
-                        <outlet property="num2" destination="q8B-nu-Tty" id="Ym7-VB-Qxz"/>
-                        <outlet property="num3" destination="qFh-DI-712" id="pH6-p5-aFj"/>
-                        <outlet property="num4" destination="G03-85-BNO" id="MpW-pR-Fcg"/>
-                        <outlet property="num5" destination="7Zb-en-s7n" id="Xhe-Vg-FHH"/>
+                        <outlet property="num1TextField" destination="Tfj-zL-hvv" id="c3w-dh-fbp"/>
+                        <outlet property="num2TextField" destination="q8B-nu-Tty" id="aI6-ex-tCz"/>
+                        <outlet property="num3TextField" destination="qFh-DI-712" id="FNd-7r-DJI"/>
+                        <outlet property="num4TextField" destination="G03-85-BNO" id="324-EL-QKR"/>
+                        <outlet property="num5TextField" destination="7Zb-en-s7n" id="QFF-hr-szS"/>
+                        <outlet property="sumLabel" destination="98Q-Dr-xn0" id="SC9-FN-Aa1"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
